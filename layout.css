@@ -79,7 +79,7 @@
     font-weight: bold;
     text-decoration: none;
     padding: 8px;
-    display:list-item;
+    display: list-item;
     right: 60px;
     cursor: pointer;
     padding-left: 70%;
@@ -652,7 +652,7 @@ ul {
     position: absolute;
     left: 245px;
     top: 820px;
-    
+
 }
 
 .tamanhoP1 {
@@ -1498,6 +1498,26 @@ ul {
     font-size: 14px;
     line-height: 18px;
     color: #4D4D4D;
+}
+
+.check1 {
+    position: absolute;
+    right: 30px;
+    top: 10px;
+    color: #ED7839;
+    border-radius: 4px;
+}
+
+.autor {
+    position: absolute;
+    right: 80px;
+    top: 0px;
+    font-family: "Quicksand", sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 18px;
+    color: #ED7839;
 }
 
 
